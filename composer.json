@@ -2,6 +2,7 @@
 	"name": "dotink/flourish",
 	"description": "A modernized Flourish library",
 	"license": "AGPL 3.0",
+	"type": "metapackage",
 	"authors": [
 		{
 			"name": "Matthew J. Sahagian",
