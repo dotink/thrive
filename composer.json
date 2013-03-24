@@ -1,0 +1,20 @@
+{
+	"name": "dotink/flourish",
+	"description": "A modernized Flourish library",
+	"license": "AGPL 3.0",
+	"authors": [
+		{
+			"name": "Matthew J. Sahagian",
+			"email": "matt@imarc.net",
+			"role": "Lead Architect / Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0",
+		"dotink/flourish-core": "dev-master",
+		"dotink/flourish-json": "dev-master",
+		"dotink/flourish-message": "dev-master",
+		"dotink/flourish-text": "dev-master",
+		"dotink/flourish-url": "dev-master"
+	}
+}
