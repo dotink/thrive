@@ -14,6 +14,7 @@
 		"php": ">=5.4.0",
 		"dotink/flourish-core": "dev-master",
 		"dotink/flourish-datetime": "dev-master",
+		"dotink/flourish-filesystem": "dev-master",
 		"dotink/flourish-json": "dev-master",
 		"dotink/flourish-message": "dev-master",
 		"dotink/flourish-text": "dev-master",
