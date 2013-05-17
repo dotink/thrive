@@ -13,6 +13,7 @@
 	"require": {
 		"php": ">=5.4.0",
 		"dotink/flourish-core": "dev-master",
+		"dotink/flourish-cache": "dev-master",
 		"dotink/flourish-datetime": "dev-master",
 		"dotink/flourish-filesystem": "dev-master",
 		"dotink/flourish-json": "dev-master",
