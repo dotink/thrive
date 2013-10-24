@@ -1,19 +1,20 @@
 {
 	"name": "dotink/flourish",
 	"description": "A modernized Flourish library",
-	"license": "AGPL 3.0",
+	"license": "AGPL-3.0",
 	"type": "metapackage",
 	"authors": [
 		{
 			"name": "Matthew J. Sahagian",
-			"email": "matt@imarc.net",
+			"email": "gent@dotink.org",
 			"role": "Lead Architect / Developer"
 		}
 	],
 	"require": {
 		"php": ">=5.4.0",
-		"dotink/flourish-core": "dev-master",
 		"dotink/flourish-cache": "dev-master",
+		"dotink/flourish-core": "dev-master",
+		"dotink/flourish-cryptography": "dev-master",
 		"dotink/flourish-datetime": "dev-master",
 		"dotink/flourish-filesystem": "dev-master",
 		"dotink/flourish-json": "dev-master",
